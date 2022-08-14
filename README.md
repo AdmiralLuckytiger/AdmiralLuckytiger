@@ -24,7 +24,7 @@
   - C#  
   `System.Console.WriteLine("Hello World!");`
   - JavaScript  
-  `alert(`Hello Wolrd`);`
+  `alert('Hello Wolrd');`
 ---
 ### Tools
 
@@ -35,6 +35,9 @@
       - Affinity Designer
       - Affinity Photo
       - Affinity Publisher
+  - Git
+  - Excel
+  - Matlab
 <!---
 AdmiralLuckytiger/AdmiralLuckytiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
