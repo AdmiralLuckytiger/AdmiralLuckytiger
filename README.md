@@ -9,7 +9,7 @@
 
 ## Social media 
   - [LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B%2Bes3k1JqRRe016xqUQtTZQ%3D%3D)
-  - [CodeWars](https://www.codewars.com/users/Admiral_LuckyTiger/badges/large)
+  - [CodeWars](https://www.codewars.com/users/Admiral_LuckyTiger)
   - [Udemy](https://www.udemy.com/user/eduardo-70462/)
 
 
