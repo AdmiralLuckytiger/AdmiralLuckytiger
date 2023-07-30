@@ -25,6 +25,8 @@
   `System.Console.WriteLine("Hello World!");`
   - JavaScript  
   `alert('Hello Wolrd');`
+  - Bash
+  `echo "Hello world"`
 ---
 ### Tools
 
@@ -36,11 +38,11 @@
       - Affinity Photo
       - Affinity Publisher
   - Git
-  - Excel
   - Matlab
   - Latex
  ---
- ### Books
+ ### Favorite Books
+  - Thinking Like a Programmer 
  
 <!---
 AdmiralLuckytiger/AdmiralLuckytiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
