@@ -25,7 +25,7 @@
   `System.Console.WriteLine("Hello World!");`
   - JavaScript  
   `alert('Hello Wolrd');`
-  - Bash\n
+  - Bash 
   `echo "Hello world"`
 ---
 ### Tools
