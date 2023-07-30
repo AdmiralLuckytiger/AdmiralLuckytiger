@@ -21,11 +21,11 @@
   `printf("Helllo World);`
   - C++   
   `std::cout << "Hello Wolrd" << endl;`
-  - C#  
+  - C#   
   `System.Console.WriteLine("Hello World!");`
   - JavaScript  
   `alert('Hello Wolrd');`
-  - Bash 
+  - Bash                                                                                                                                                      
   `echo "Hello world"`
 ---
 ### Tools
