@@ -5,8 +5,8 @@
 
 - 👋 Hi, I’m @AdmiralLuckytiger
 - 👀 I’m interested in learning all kind of knowledge about software and hardware.
-- 🌱 I’m currently learning JavaScript and Web development.
-- 💞️ I’m looking to collaborate on anything related with web development.
+- 🌱 I’m currently learning Rust.
+- 💞️ I’m looking to collaborate on anything related with web development or embedded software.
 - 📫 You could reach me via email ( edu.nopersonal@gmail.com ).
 ---
 ### Social media 
