@@ -42,7 +42,8 @@
   - Latex
  ---
  ### Favorite Books
-  - Thinking Like a Programmer 
+  - Thinking Like a Programmer
+  - Pragmatic Programmmer
  
 <!---
 AdmiralLuckytiger/AdmiralLuckytiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
