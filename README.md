@@ -27,6 +27,8 @@
   `alert('Hello Wolrd');`
   - Bash                                                                                                                                                      
   `echo "Hello world"`
+  - Rust
+  `println!("Hello world!")`
 ---
 ### Tools
 
