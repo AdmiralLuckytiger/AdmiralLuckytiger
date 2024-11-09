@@ -6,7 +6,7 @@
 - 👋 Hi, I’m @AdmiralLuckytiger
 - 👀 I’m interested in learning all kind of knowledge about software and hardware.
 - 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on anything related with web development or embedded software.
+- 💞️ I’m looking to collaborate on anything related with embedded software.
 - 📫 You could reach me via email ( edu.nopersonal@gmail.com ).
 ---
 ### Social media 
@@ -40,6 +40,9 @@
   - Thinking Like a Programmer
   - Pragmatic Programmmer
   - Chip War: The Fight for the World's Most Critical Technology
+
+ ### Currently reading 
+  - Practical Introduction of Software/Hardware Codesign. 
  
 <!---
 AdmiralLuckytiger/AdmiralLuckytiger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
